@@ -11,7 +11,7 @@ all the scenes we created using Omniverse, excluding the animal assets.
 **Data Conversion**:
 `dataConvertor.ipynb` to convert raw data to Yolov5 format. `getCOCOdata.py` to extract data contains cows from COCO2017 dataset.
 
-**Data Conversion**:
-Contains our 2 models information, including weights and metrics.
+**Run Result**:
+Contains our 2 models information, including weights and metrics. Didn't include the dataset we used since it is too large.
 
 `requirements.txt` can be used to install all the dependencies for python scripts in our project including Yolov5. In order to run Yolov5, should download Pytorch with GPU seperately.
